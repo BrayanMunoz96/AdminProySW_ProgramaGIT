@@ -6,7 +6,7 @@ def main():
 	edad = input("Ingresa también tu edad ")
 	helado = input("Cual es tu sabor de helado favorito?")
 
-	print("-------------Procesando--------------")
+	print("Procesando...")
 	
 	#Respuestas
 	print("Tu nombre es ", nombre)
