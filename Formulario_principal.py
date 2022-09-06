@@ -7,7 +7,7 @@ def main():
 	helado = input("Cual es tu sabor de helado favorito?")
 	pelicula = input("¿Cual es tu pelicula favorita?")
 
-	print("-------------Procesando--------------")
+	print("Procesando...")
 	
 	#Respuestas
 	print("Tu nombre es ", nombre)
