@@ -8,6 +8,7 @@ def main():
 	pelicula = input("¿Cual es tu pelicula favorita?")
 	color = input("Cual es tu color favorito?")
 	canción = input("Cuál es tu canción favorita?")
+	serie = input("Cuál es tu serie de TV favorita?")
 
 	print("-------------Procesando--------------")
 	
@@ -22,6 +23,8 @@ def main():
 	print("Mi color favorito es ", color)
 	print("\n")
 	print("Mi canción favorita es ", canción)
+	print("\n")
+	print("Mi serie de TV favorita es ", serie)
 	print("\n")
 	
 
