@@ -6,7 +6,8 @@ def main():
 	edad = input("Ingresa también tu edad ")
 	helado = input("Cual es tu sabor de helado favorito?")
 	pelicula = input("¿Cual es tu pelicula favorita?")
-	color = input("Cual es tu color favorito?"
+	color = input("Cual es tu color favorito?")
+	canción = input("Cuál es tu canción favorita?")
 
 	print("-------------Procesando--------------")
 	
@@ -20,5 +21,8 @@ def main():
 	print("\n")
 	print("Mi color favorito es ", color)
 	print("\n")
+	print("Mi canción favorita es ", canción)
+	print("\n")
+	
 
 main()
